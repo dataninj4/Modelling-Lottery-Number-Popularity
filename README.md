@@ -1,4 +1,6 @@
 # Modelling Lottery Number Popularity
+
+January 2020
  
 The focus of interest however in this analysis are going to be two questions I am interested in answering:
 
